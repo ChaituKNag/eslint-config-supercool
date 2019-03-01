@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-supercool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A supercool ESLint plugin by KNC",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "author": "Naga Chaitanya Konada <knc@outlook.in>",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ChaituKNag/eslint-config-supercool.git"
+    "type": "git",
+    "url": "https://github.com/ChaituKNag/eslint-config-supercool.git"
   }
 }
