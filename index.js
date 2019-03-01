@@ -1,18 +1,9 @@
 module.exports = {
     "extends": "eslint:recommended",
     "rules": {
-        "indent": [
-            "warn",
-            "tab"
-        ],
-        "quotes": [
-            "warn",
-            "backtick"
-        ],
-        "semi": [
-            "error",
-            "always"
-        ],
+        "indent": ["warn","tab"],
+        "quotes": ["warn","backtick"],
+        "semi": ["error","always"],
         "no-extra-parens": 1,
         "no-template-curly-in-string": 1,
         "array-callback-return": 1,
@@ -84,6 +75,6 @@ module.exports = {
         "prefer-arrow-callback": 1,
         "prefer-const": 1,
         "prefer-destructuring": 1,
-        
+
     }
 }
